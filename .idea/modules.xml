@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\WebFile\MoFangCardManager\CalendarLibrary\CalendarLibrary.iml" filepath="E:\WebFile\MoFangCardManager\CalendarLibrary\CalendarLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoFangCardManager.iml" filepath="$PROJECT_DIR$/MoFangCardManager.iml" />
+      <module fileurl="file://E:\other_files\WorkData\New_SVN\APP\AS\Suncere.GanSu.AS.AndroidApp_Public\Suncere.GanSu.AS.AndroidApp.iml" filepath="E:\other_files\WorkData\New_SVN\APP\AS\Suncere.GanSu.AS.AndroidApp_Public\Suncere.GanSu.AS.AndroidApp.iml" />
+      <module fileurl="file://E:\WebFile\MoFangCardManager\Suncere.GanSu.AS.AndroidApp_Public.iml" filepath="E:\WebFile\MoFangCardManager\Suncere.GanSu.AS.AndroidApp_Public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
